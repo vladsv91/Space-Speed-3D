@@ -1,3 +1,3 @@
 # Space-Speed-3D
 
-AdConfig
+AdConfig 2
