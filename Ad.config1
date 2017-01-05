@@ -3,5 +3,6 @@
     "CanShowAd": [0, 0, 1],
     "CanShowMyAd": [1, 1, 1, 1],
     "FirstShowAdInterval": 0.05,
+    "FirstGameShowAdInterval": 0.2,
     "ShowAdInterval": 0.01
 }
