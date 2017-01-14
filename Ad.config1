@@ -1,5 +1,5 @@
 {
-    "NextAd": 2,
+    "NextAd": 1,
     "CanShowAd": [1, 1, 0],
     "CanShowMyAd": [1, 1, 0, 0],
     "FirstShowAdInterval": 0.5,
