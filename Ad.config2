@@ -1,10 +1,19 @@
 {
-    "NextAd": 1,
-    "CanShowAd": [1, 0, 0],
+    "NextAd": -1,
+    "CanShowAd": [1, 0],
     "CanShowMyAd": [1, 1, 0, 0],
     "FirstShowAdInterval": 1.5,
-    "FirstGameShowAdInterval": 2,
+    "FirstGameShowAdInterval": 1,
     "ShowAdInterval": 2,
-    "MaxShowAdPerGameCount": 0,
-    "MaxShowAd": [0, 0]
+    "MaxShowAdCount": 0,
+    "AdSettings": [
+        {
+            "CanShowAd": true,
+            "MaxShowAd": 0
+        },
+        {
+            "CanShowAd": false,
+            "MaxShowAd": 0
+        }
+    ]
 }
