@@ -9,10 +9,10 @@
     "AdSettings": [
         {
             "CanShowAd": true,
-            "MaxShowAd": 0
+            "MaxShowAd": 10
         },
         {
-            "CanShowAd": false,
+            "CanShowAd": true,
             "MaxShowAd": 0
         }
     ]
