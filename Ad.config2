@@ -11,7 +11,7 @@
             "MaxShowAd": 0
         },
         {
-            "CanShowAd": false,
+            "CanShowAd": true,
             "MaxShowAd": 0
         }
     ]
