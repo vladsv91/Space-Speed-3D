@@ -1,8 +1,8 @@
 {
     "NextAd": 1,
-    "CanShowAd": [0, 0, 0],
+    "CanShowAd": [1, 1, 0],
     "CanShowMyAd": [1, 1, 0, 0],
-    "FirstShowAdInterval": 0.5,
+    "FirstShowAdInterval": 1.0,
     "FirstGameShowAdInterval": 1.5,
     "ShowAdInterval": 1
 }
