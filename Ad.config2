@@ -7,11 +7,11 @@
     "MaxShowAdCount": 0,
     "AdSettings": [
         {
-            "CanShowAd": true,
+            "CanShowAd": 0,
             "MaxShowAd": 0
         },
         {
-            "CanShowAd": true,
+            "CanShowAd": 0,
             "MaxShowAd": 0
         }
     ]
