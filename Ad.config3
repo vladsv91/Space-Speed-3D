@@ -9,7 +9,6 @@
     "ShowAdsQueueFirstGame": [0,0,1,0,0],
     "ShowAdsIntervals": [1.4,1,1,0.5],
     "ShowAdsIntervalsFirstGame": [2.4,1,1,0.5],
-    "ShowAdsIntervalsFirstGame2": [2.4,1,1,0.5],
     "AdSettings": [
         {
             "CanShowAd": 1,
