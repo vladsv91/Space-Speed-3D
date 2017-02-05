@@ -12,7 +12,7 @@
         },
         {
             "CanShowAd": 1,
-            "MaxShowAd": 0
+            "MaxShowAd": 1
         }
     ]
 }
