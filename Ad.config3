@@ -1,11 +1,11 @@
 {
 "NextAd": 0,
 "CanShowMyAd": [1,1,0,0],
-"ShowAdInterval": 1.2,
+"ShowAdInterval": 2,
 "MaxShowAdCount": 0,
-"ShowAdsQueue": [0,0,1,0,1,1,0],
-"ShowAdsQueueFirstGame": [0,0,1,0,1,0],
-"ShowAdsIntervals": [1.2, 1.2, 1.1, 1.4, 1],
+"ShowAdsQueue": [0,0,1,0,0,1,0],
+"ShowAdsQueueFirstGame": [0,0,1,0,0,0],
+"ShowAdsIntervals": [1.4, 1.2, 1.6, 1.4, 1],
 "ShowAdsIntervalsFirstGame": [1.5, 1.6, 1.7, 1.8],
-"ShowAdsCounts": [-1,5]
+"ShowAdsCounts": [-1,4]
 }
