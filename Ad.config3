@@ -5,7 +5,7 @@
 "MaxShowAdCount":0,
 "ShowAdsQueue": [0,0],
 "ShowAdsQueueFirstGame": [0,0],
-"ShowAdsIntervals": [0.5, 1],
+"ShowAdsIntervals": [0.1, 1],
 "ShowAdsIntervalsFirstGame": [1.5,1],
 "ShowAdsCounts": [-1,0]
 }
